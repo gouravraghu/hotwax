@@ -1,0 +1,7 @@
+{
+  "name": "hotwax",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
